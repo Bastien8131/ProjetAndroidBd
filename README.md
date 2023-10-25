@@ -1,3 +1,3 @@
 # ProjetAndroidBd
 
-Ce projet sert de base a d'autre projet y an pour but de connecter un BDD distante a une app Java Android
+Ce projet sert de base pour d'autres projets. Son but est de montrer comment connecter une base de données distante à une application Java Android.
